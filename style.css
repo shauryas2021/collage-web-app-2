@@ -1,0 +1,36 @@
+
+body
+{
+background-color :darkorange
+}
+#textbox
+{
+    width: 300px;
+}
+#footer{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border-radius: 50px;
+    background-color: darkgrey;
+    font-size: large;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:50px;
+    font-weight: bolder;
+    font-style: italic;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+}
+#image1:hover {
+    border-radius: 140px;
+  }
+  #image2:hover {
+    border-radius: 140px;
+  }
+  #image3:hover {
+    border-radius: 140px;
+  }
